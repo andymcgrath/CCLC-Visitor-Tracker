@@ -1,0 +1,19 @@
+PLAIN
+END
+ENDREP
+id: 0.0.r2/17
+type: dir
+pred: 0.0.r1/2724
+count: 2
+text: 2 0 4 4 2d2977d1c96f487abe4a1e202dd03b4e
+cpath: /
+copyroot: 0 /
+
+1-1.0.r1/2351 delete false false /passwd
+
+2-1.0.r1/2473 delete false false /authz
+
+0-1.0.r1/2223 delete false false /svnserve.conf
+
+
+17 139
