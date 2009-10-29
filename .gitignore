@@ -6,6 +6,11 @@ Thumbs.db
 *.bak
 *.cache
 *.log
+*.iws
+*.ipr
+*.iml
+*.launch
+*.tmproj
 [Bb]in
 out/
 
