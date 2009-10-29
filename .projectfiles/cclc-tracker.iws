@@ -16,14 +16,142 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" readonly="true" name="Default" comment="">
-      <change type="DELETED" beforePath="C:\PROJECTS\cclc-tracker\cclc-tracker.launch" afterPath="" />
-      <change type="DELETED" beforePath="C:\PROJECTS\cclc-tracker\cclc-tracker.tmproj" afterPath="" />
-      <change type="DELETED" beforePath="C:\PROJECTS\cclc-tracker\cclc-tracker.iml" afterPath="" />
-      <change type="DELETED" beforePath="C:\PROJECTS\cclc-tracker\.project" afterPath="" />
-      <change type="DELETED" beforePath="C:\PROJECTS\cclc-tracker\.classpath" afterPath="" />
-      <change type="DELETED" beforePath="C:\PROJECTS\cclc-tracker\README.txt" afterPath="" />
-      <change type="DELETED" beforePath="C:\PROJECTS\cclc-tracker\cclc-tracker.ipr" afterPath="" />
-      <change type="MOVED" beforePath="C:\PROJECTS\cclc-tracker\cclc-tracker.iws" afterPath="$PROJECT_DIR$/.projectfiles/cclc-tracker.iws" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/WEB-INF/tld/fmt.tld" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/js/prototype/effects.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/images/tree/folders/ln.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/index.gsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/images/skin/database_save.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/images/tree/check/vline.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/plugins/searchable-0.5/js/prototype/sound.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/integration/EmailAddressControllerTests.groovy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/images/tree/check/tm.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/integration/AddressTests.groovy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/images/tree/check/loading.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/plugins/searchable-0.5/images/skin/shadow.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/plugins/searchable-0.5/css/main.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/css/tree/folders/tree.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/images/tree/menu/collapseon.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/images/tree/check/lm.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/images/tree/check/ln.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/images/skin/database_table.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/images/tree/check/check2.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/plugins/searchable-0.5/images/skin/exclamation.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/js/application.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/images/tree/menu/dash.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/images/tree/check/lph.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/plugins/searchable-0.5/images/spinner.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/plugins/searchable-0.5/js/prototype/rico.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/images/tree/default/lph.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/integration/TelephoneTests.groovy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/orig-index.gsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/images/tree/folders/tm.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/images/tree/check/lmh.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/images/tree/check/tph.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/integration/VisitControllerTests.groovy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/images/cclc_banner.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/images/tree/default/lmh.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/images/tree/folders/tp.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/images/tree/qmiddle.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/WEB-INF/tld/spring.tld" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/images/tree/menu/collapse.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/plugins/searchable-0.5/images/skin/database_delete.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/images/tree/menu/expandh.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/plugins/searchable-0.5/js/prototype/scriptaculous.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/images/tree/check/tn.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/images/tree/folders/lph.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/images/skin/shadow.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/plugins/searchable-0.5/images/skin/sorted_desc.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/plugins/searchable-0.5/images/skin/house.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/images/tree/default/loading.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/images/tree/default/lm.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/images/tree/folders/lmh.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/integration/IndividualTests.groovy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/images/tree/folders/tph.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/images/tree/default/lp.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/plugins/searchable-0.5/js/prototype/slider.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/plugins/searchable-0.5/js/prototype/effects.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/images/tree/check/check1.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/images/tree/menu/loading.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/images/tree/default/tph.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/images/skin/house.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/plugins/searchable-0.5/js/prototype/builder.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/css/tree/check/tree.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/js/prototype/animation.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/images/tree/check/tp.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/js/prototype/scriptaculous.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/js/prototype/builder.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/WEB-INF/tld/c.tld" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/images/tree/greybg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/integration/AddressControllerTests.groovy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/images/tree/default/vline.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/images/skin/sorted_asc.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/images/tree/header.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/images/tree/folders/vline.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/images/tree/default/tmh.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/WEB-INF/applicationContext.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/images/tree/qbottom.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/images/tree/check/check0.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/images/tree/logo.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/images/skin/database_edit.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/WEB-INF/tld/grails.tld" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/images/skin/sorted_desc.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/js/prototype/slider.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/plugins/searchable-0.5/js/application.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/integration/TelephoneControllerTests.groovy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/plugins/searchable-0.5/js/prototype/controls.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/images/spinner.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/plugins/searchable-0.5/index.gsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/plugins/searchable-0.5/js/prototype/unittest.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/images/tree/folders/tmh.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/images/tree/bullet.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/images/skin/exclamation.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/images/tree/default/tm.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/images/favicon.ico" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/plugins/searchable-0.5/images/grails_logo.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/js/prototype/sound.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/images/tree/folders/lp.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/plugins/searchable-0.5/images/skin/sorted_asc.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/plugins/searchable-0.5/images/skin/database_edit.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/WEB-INF/sitemesh.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/css/tree/default/tree.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/plugins/searchable-0.5/images/skin/database_add.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/images/skin/database_add.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/images/tree/check/tmh.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/plugins/searchable-0.5/js/prototype/prototype.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/images/tree/default/tn.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/images/tree/check/lp.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/images/tree/qtop.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/css/main.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/images/tree/folders/loading.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/images/tree/folders/tn.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/plugins/searchable-0.5/js/prototype/animation.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/js/prototype/prototype.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/js/prototype/controls.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/integration/EmailAddressesTests.groovy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/images/tree/menu/expand.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/images/tree/folders/lm.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/images/tree/default/tp.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/plugins/searchable-0.5/images/skin/database_table.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/integration/VisitsTests.groovy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/plugins/searchable-0.5/js/prototype/dragdrop.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/plugins/searchable-0.5/images/favicon.ico" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/images/tree/navHover2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/images/grails_logo.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/images/tree/menu/expandon.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/images/skin/database_delete.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/plugins/searchable-0.5/images/skin/information.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/js/prototype/unittest.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/css/tree/menu/tree.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/images/skin/information.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/images/skin/cancel.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/js/prototype/dragdrop.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/images/tree/default/ln.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/mysql-connector-java-5.1.6-bin.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/js/prototype/rico.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/plugins/searchable-0.5/images/skin/database_save.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/images/tree/menu/collapseh.gif" />
     </list>
     <ignored mask="*.log" />
     <ignored path="cclc-tracker.iws" />
@@ -103,10 +231,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
+      <file leaf-file-name="show.gsp" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/grails-app/views/emailAddress/show.gsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="57" column="0" selection-start="2144" selection-end="2144" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="create.gsp" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/grails-app/views/emailAddress/create.gsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="60" column="0" selection-start="2667" selection-end="2667" vertical-scroll-proportion="-0.30357143">
+            <state line="60" column="0" selection-start="2667" selection-end="2667" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -160,7 +297,7 @@
       <file leaf-file-name="main.css" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/web-app/css/main.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="255" column="120" selection-start="4436" selection-end="4436" vertical-scroll-proportion="0.057228915">
+            <state line="259" column="1" selection-start="4497" selection-end="4497" vertical-scroll-proportion="0.2761905">
               <folding />
             </state>
           </provider>
@@ -247,24 +384,6 @@
         </PATH_ELEMENT>
         <PATH_ELEMENT>
           <option name="myItemId" value="cclc-tracker" />
-          <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-        </PATH_ELEMENT>
-      </PATH>
-      <PATH>
-        <PATH_ELEMENT>
-          <option name="myItemId" value="cclc-tracker" />
-          <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-        </PATH_ELEMENT>
-        <PATH_ELEMENT>
-          <option name="myItemId" value="cclc-tracker" />
-          <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewModuleNode" />
-        </PATH_ELEMENT>
-        <PATH_ELEMENT>
-          <option name="myItemId" value="cclc-tracker" />
-          <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-        </PATH_ELEMENT>
-        <PATH_ELEMENT>
-          <option name="myItemId" value=".projectfiles" />
           <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
         </PATH_ELEMENT>
       </PATH>
@@ -488,7 +607,7 @@
     <editor active="false" />
     <layout>
       <window_info id="Data Sources" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" />
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.49305555" sideWeight="0.5" order="8" side_tool="false" />
+      <window_info id="Changes" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.49305555" sideWeight="0.5" order="8" side_tool="false" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32839224" sideWeight="0.5" order="1" side_tool="false" />
@@ -500,7 +619,7 @@
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25290877" sideWeight="0.5" order="1" side_tool="false" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2944126" sideWeight="0.49722221" order="0" side_tool="false" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2944126" sideWeight="0.49722221" order="0" side_tool="false" />
       <window_info id="Dependency Viewer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" />
       <window_info id="Web Preview" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="6" side_tool="false" />
@@ -567,6 +686,13 @@
     </buildFile>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/grails-app/controllers/VisitController.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="24" selection-start="49" selection-end="49" vertical-scroll-proportion="0.064150944">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/web-app/images/tree/check/lm.gif">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -607,7 +733,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/grails-app/views/emailAddress/create.gsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="60" column="0" selection-start="2667" selection-end="2667" vertical-scroll-proportion="-0.30357143">
+        <state line="60" column="0" selection-start="2667" selection-end="2667" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
@@ -657,16 +783,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/web-app/css/main.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="255" column="120" selection-start="4436" selection-end="4436" vertical-scroll-proportion="0.057228915">
+        <state line="259" column="1" selection-start="4497" selection-end="4497" vertical-scroll-proportion="0.2761905">
           <folding />
         </state>
       </provider>
